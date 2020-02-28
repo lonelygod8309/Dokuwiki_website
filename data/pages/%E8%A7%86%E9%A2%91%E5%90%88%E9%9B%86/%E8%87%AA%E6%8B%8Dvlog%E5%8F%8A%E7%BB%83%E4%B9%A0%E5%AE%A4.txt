@@ -1,0 +1,9 @@
+====== 自拍vlog及练习室 ======
+===== 自拍vlog =====
+
+^名称     ^ 链接     ^
+|vlog 001  |http://t.cn/EaXj5SC|
+|vlog 002|http://t.cn/AiKn1eiu|
+
+===== 练习室 =====
+<jumbotron>[[https://www.bilibili.com/video/av55969167/?p=1|舞蹈练习室合集]]</jumbotron>

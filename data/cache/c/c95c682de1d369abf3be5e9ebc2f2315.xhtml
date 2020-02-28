@@ -1,0 +1,51 @@
+
+<h1 class="sectionedit1" id="dokuwiki格式语法说明">DokuWiki格式语法说明</h1>
+<div class="level1">
+
+<p>
+<a href="https://www.dokuwiki.org/DokuWiki" class="interwiki iw_doku" title="https://www.dokuwiki.org/DokuWiki">DokuWiki</a> 支持一些简单的标记语言, 以尽最大可能使文档看上去更友好。本页面包含了所有你在编辑页面时可能用到的语法的说明。如果需要查看本页源码，只需要点击页面顶部或者底部的 <strong>编辑本页</strong> 按钮即可。 I如果您是初尝Wiki，那么可以使用 <a href="/doku.php?id=playground:playground" class="wikilink2" title="playground:playground" rel="nofollow">Wiki砂箱</a> 来尽情挥洒。通过<a href="https://www.dokuwiki.org/toolbar" class="interwiki iw_doku" title="https://www.dokuwiki.org/toolbar">快捷按钮</a>，您可以更方便地使用这些标记。
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;DokuWiki\u683c\u5f0f\u8bed\u6cd5\u8bf4\u660e&quot;,&quot;hid&quot;:&quot;dokuwiki\u683c\u5f0f\u8bed\u6cd5\u8bf4\u660e&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-512&quot;} -->
+<h2 class="sectionedit2" id="基本文本格式">基本文本格式</h2>
+<div class="level2">
+
+<p>
+DokuWiki支持 <strong>粗体</strong>, <em>斜体</em>, <em class="u">下划线</em> 以及 <code>等宽体</code> 等格式。 当然，你也可以使用 <strong><em class="u"><em><code>混合使用</code></em></em></strong> 这些格式。
+</p>
+<pre class="code">DokuWiki支持 **粗体**, //斜体//, __下划线__ 以及 &#039;&#039;等宽体&#039;&#039; 等格式。
+当然，你也可以使用 **__//&#039;&#039;混合使用&#039;&#039;//__** 这些格式。</pre>
+
+<p>
+可以使用 <sub>下标</sub> 和 <sup>上标</sup>。
+</p>
+<pre class="code">可以使用 &lt;sub&gt;下标&lt;/sub&gt; 和 &lt;sup&gt;上标&lt;/sup&gt;。</pre>
+
+<p>
+您也可以使用 <del>删除线</del> 标记某些信息。
+</p>
+<pre class="code">您也可以使用 &lt;del&gt;删除线&lt;/del&gt; 标记某些信息。</pre>
+
+<p>
+<strong>段落</strong> 是由空行所建立的。如果您想 <strong>强制建立新行</strong> 而不建立段落，您可以使用两个连续的反斜杠+空格或是回车作为标记。请看样例：
+</p>
+
+<p>
+这是一些有着换行标记的文字。<br/>
+请注意
+反斜杠只在回车符之前<br/>
+
+或者在<br/>
+一个空格之前的时候才有效。 \\而这样就并不起作用。
+</p>
+<pre class="code">这是一些有着换行标记的文字。\\ 请注意
+反斜杠只在回车符之前\\
+或者在\\ 一个空格之前的时候才有效。 \\而这样就并不起作用。</pre>
+
+<p>
+请只在必须的时候才使用强制的换行标记。
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;\u57fa\u672c\u6587\u672c\u683c\u5f0f&quot;,&quot;hid&quot;:&quot;\u57fa\u672c\u6587\u672c\u683c\u5f0f&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;513-&quot;} -->

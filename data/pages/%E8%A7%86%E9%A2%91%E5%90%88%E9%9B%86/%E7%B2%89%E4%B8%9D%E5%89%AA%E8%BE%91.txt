@@ -1,0 +1,66 @@
+====== 粉丝剪辑 ======
+
+<accordion collapsed="true">
+<grid>
+<col md="6" >
+<panel title="舞台混剪">
+[[https://www.bilibili.com/video/av36219022?from=search&seid=12298463208949311254|孟美岐｜《月亮警察》五机位直拍]]
+\\
+[[https://www.bilibili.com/video/av37252187?from=search&seid=7956418984502231984|wjsn《Happy》11个直拍舞台换装混剪]]
+\\
+[[https://www.bilibili.com/video/av26663684/?spm_id_from=333.788.videocard.11|《Starry Moment》镜头打歌服混剪7合1]]
+\\
+[[https://www.bilibili.com/video/av27103919/?spm_id_from=333.788.videocard.0|WJSN八大舞台 高清混剪]]
+\\
+[[https://www.bilibili.com/video/av26811842?from=search&seid=16217056119764557426|Dreams come true打歌服10in1混剪]]
+</panel>
+</col>
+
+<col md="6" >
+<panel title="自制MV系列">
+[[https://www.bilibili.com/video/av54876407|【孟美岐】Mother's Daughter]]
+\\
+[[https://www.bilibili.com/video/av24449074?from=search&seid=9966461038261414258|【孟美岐】成名在望 | 少年回头望，笑我还不快跟上]]
+\\
+[[https://www.bilibili.com/video/av33407797|【孟美岐 | 生贺】你岂止偶像歌手/你岂止恶劣传说]]
+\\
+[[https://www.bilibili.com/video/av32510606?from=search&seid=2543411875308760009|【孟美岐丨催泪向】让我留在你身边]]
+\\
+[[https://www.bilibili.com/video/av56522103?from=search&seid=2543411875308760009|【孟美岐】一年了，我还在回味创造101『一周年燃向混剪』]]
+</panel>
+</col>
+
+
+</grid>
+</accordion>
+
+<accordion collapsed="true">
+<grid>
+<col md="6" >
+<panel title="安利向">
+[[https://www.bilibili.com/video/av44177097/?spm_id_from=333.788.videocard.18|明日之子3导师孟美岐实力现原形？唱歌跳舞直拍居然是这样……]]
+\\
+[[https://weibo.com/tv/v/H66DSoj4R?fid=1034:4314554608635776|孟美岐唱歌片段合集]]
+[[https://www.bilibili.com/video/av32338486?from=search&seid=13417056837264562209|孟美岐的打开方式（第一弹）]]
+\\
+[[https://www.bilibili.com/video/av32391689|孟美岐的打开方式（第二弹）]]
+\\
+[[https://www.bilibili.com/video/av26837325/?spm_id_from=333.788.videocard.2|【孟美岐】山支大哥爆笑艺能综艺合集大放送 真的不pick吗？]]
+\\
+[[https://www.bilibili.com/video/av25895417/?spm_id_from=333.788.videocard.0|【孟美岐】这可能不是你认识的山支哥 【第二弹】 综艺采访cut合集]]
+\\
+[[https://www.bilibili.com/video/av23866747/?spm_id_from=333.788.videocard.2|【孟美岐】你山支哥的哈哈哈哈哈哈哈哈合集（鬼畜）]]
+</panel>
+</col>
+
+<col md="6" >
+<panel title="对比类">
+[[https://www.bilibili.com/video/av39534748|【孟美岐】翻跳《the water dance》分屏版]]
+\\
+[[https://video.h5.weibo.cn/1034:4356062183376086/4356062624672016|孟美岐《生而为赢》上海站和广州站直拍对比]]
+\\
+[[https://www.bilibili.com/video/av32064377?from=search&seid=17760162029894422070|孟美岐800w舞蹈福利和创时期doki机位舞蹈对比]]
+</panel>
+</col>
+</grid>
+</accordion>

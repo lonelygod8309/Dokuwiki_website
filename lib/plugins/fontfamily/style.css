@@ -1,0 +1,11 @@
+#picker1 img,
+#picker2 img,
+#picker3 img,
+#picker4 img,
+#picker5 img,
+#picker6 img,
+#picker7 img,
+#picker8 img {
+    width: auto !important;
+	font-size: inherit !important;
+}

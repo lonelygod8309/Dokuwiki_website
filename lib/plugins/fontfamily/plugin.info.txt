@@ -1,0 +1,7 @@
+base   fontfamily
+author ThorstenStratmann
+email  thorsten.stratmann@web.de
+date   2019-03-19
+name   Fontfamily Plugin
+desc   Tags <ff (fonttype)></ff> for changing the fontfamily 
+url    http://www.dokuwiki.org/plugin:fontfamily

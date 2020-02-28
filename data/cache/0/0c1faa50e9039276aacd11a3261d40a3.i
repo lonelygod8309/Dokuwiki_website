@@ -1,0 +1,5 @@
+a:17:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:14:"<navbar class=";}i:2;i:1;}i:3;a:3:{i:0;s:18:"doublequoteopening";i:1;a:0:{}i:2;i:15;}i:4;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:16:"navbar-expand-md";}i:2;i:16;}i:5;a:3:{i:0;s:18:"doublequoteclosing";i:1;a:0:{}i:2;i:32;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:27:">
+<container>
+<brand class=";}i:2;i:33;}i:7;a:3:{i:0;s:18:"doublequoteopening";i:1;a:0:{}i:2;i:60;}i:8;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:4:"pt-0";}i:2;i:61;}i:9;a:3:{i:0;s:18:"doublequoteclosing";i:1;a:0:{}i:2;i:65;}i:10;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:7:" title=";}i:2;i:66;}i:11;a:3:{i:0;s:18:"doublequoteopening";i:1;a:0:{}i:2;i:73;}i:12;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:11:"Nico's Home";}i:2;i:74;}i:13;a:3:{i:0;s:18:"doublequoteclosing";i:1;a:0:{}i:2;i:85;}i:14;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:16:">
+Hôme
+</brand>";}i:2;i:86;}i:15;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:102;}i:16;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:102;}}

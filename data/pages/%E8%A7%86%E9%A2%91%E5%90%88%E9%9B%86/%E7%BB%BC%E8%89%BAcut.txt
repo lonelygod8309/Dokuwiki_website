@@ -1,0 +1,63 @@
+====== 综艺cut ======
+
+<grid><col xs="12" sm="6">
+
+<panel title="常驻综艺" icon="glyphicon glyphicon-home" no-body="true">
+  * [[视频合集:综艺cut#明日之子第三季]]
+  * [[视频合集:综艺cut#横冲直撞二十岁]]
+  * [[视频合集:综艺cut#创造101]]
+  * [[视频合集:综艺cut#篮球大唱片]]
+  * [[视频合集:综艺cut#火箭少女101研究所]]
+</panel>
+
+</col><col xs="12" sm="6">
+
+<panel title="飞行综艺" icon="glyphicon glyphicon-plane" no-body="true">
+  * [[视频合集:综艺cut#快乐大本营]]
+  * [[视频合集:综艺cut#超新星全运会]]
+  * [[视频合集:综艺cut#回家的礼物]]
+  * [[视频合集:综艺cut#一封家书]]
+  * [[视频合集:综艺cut#星空下的演讲]]
+</panel>
+</col>
+</grid>
+===== 明日之子第三季 =====
+^分集^正片^花絮^
+|先导片|[[https://www.bilibili.com/video/av56616236.html?p=1|星推官集结篇【正片】]]|[[https://www.bilibili.com/video/av56616236.html?p=2|星推官集结篇【花絮】]]|
+|第一期|[[https://www.bilibili.com/video/av56616236.html?p=3|第一期正片]]|[[https://www.bilibili.com/video/av56616236.html?p=4|第一期花絮]] \\ [[https://www.bilibili.com/video/av56616236.html?p=5|第1&2期评星全记录]]|
+
+===== 横冲直撞二十岁 =====
+^ 期数      ^ 正片链接       ^ 花絮链接          ^特约版链接          ^
+|第二期    |[[https://weibo.com/tv/v/HcYo26Xe5?fid=1034:4330907545582048|第2期正片]]|[[https://weibo.com/tv/v/Hd7nHn1We?fid=1034:4331266204447861|第2期花絮]] |[[https://weibo.com/tv/v/Hdjj8D5vg?fid=1034:4331724591850352|第2期特约版]]       |
+|第三期    |[[https://weibo.com/tv/v/He2Eaxhpz?fid=1034:4333449516090922|第3期正片]]  |[[https://weibo.com/tv/v/He4kce7lk?fid=1034:4333531896193907|第3期花絮]]  |[[https://weibo.com/tv/v/Henr4v5DN?fid=1034:4334266524590824|第3期特约版]]         |
+|第四期    |[[https://weibo.com/tv/v/Hf7cWB8Xs?fid=1034:4336024852052669|第4期正片]]      |[[https://weibo.com/tv/v/Hf0dCd2na?fid=1034:4335757490377601|第4期花絮1]]   \\ [[https://weibo.com/tv/v/Hg2OCpVSK?fid=1034:4338240610852836|第4期花絮2]]           |[[https://weibo.com/tv/v/HfrfKA6LQ?fid=1034:4336796663017248|第4期特约版]]         |
+|第五期|[[https://weibo.com/tv/v/HgaFldVFQ?fid=1034:4338534039880037|第5期正片]] |[[https://weibo.com/tv/v/HgaIj3BMu?fid=1034:4338544110692306|第5期花絮]]  |[[https://weibo.com/tv/v/HgvtK2lBn?fid=1034:4339342370607840|第5期特约版]] |
+|第六期|[[https://weibo.com/tv/v/HheMvgKgb?fid=1034:4341081966327019|第6期正片]] |[[https://weibo.com/tv/v/HhZDSmIiD?fid=1034:4342885126988285|第6期花絮]]  |[[https://weibo.com/tv/v/HhAz5aXNS?fid=1034:4341921212998493|第6期特约版]] |
+|第七期|[[https://weibo.com/tv/v/HiiMS870x?fid=1034:4343617465074895|第7期正片]] |[[https://weibo.com/tv/v/Hii5Qqnkc?fid=1034:4343594467960638|第7期花絮]]  |[[https://weibo.com/tv/v/HiKhjvOVv?fid=1034:4344677672096568|第7期特约版]] |
+|第八期|[[https://weibo.com/tv/v/HjmzjDVxP?fid=1034:4346147657941829|第8期正片]] |[[https://weibo.com/tv/v/HjFj2ErBo?fid=1034:4346869912927141|第8期花絮]]  |[[https://weibo.com/tv/v/HjMdjzKdG?fid=1034:4347135479449651|第8期特约版]] |
+
+===== 创造101 =====
+^期数     ^链接^ 
+|第一期 |[[https://www.bilibili.com/video/av23393777/|创造101第1期cut]]|
+|第二期 |[[https://www.bilibili.com/video/av23579756/|创造101第2期cut]]|
+|第四期 |[[https://www.bilibili.com/video/av23426776/|创造101第4期cut]] | 
+|第五期 |[[https://www.bilibili.com/video/av23666655/|创造101第5期cut]]  |
+|第六期 |[[https://www.bilibili.com/video/av23990442/|创造101第6期cut]]  |
+|第七期 |[[https://www.bilibili.com/video/av24301083/|创造101第7期cut]]  |
+|第八期 |[[https://www.bilibili.com/video/av29955836/|创造101第8期cut]]  |
+|第九期 |[[https://www.bilibili.com/video/av25041486/|创造101第9期cut]]  |
+|第十期（总决赛） |[[https://www.bilibili.com/video/av29998654/|创造101总决赛cut]]  |
+===== 快乐大本营 =====
+<jumbotron>[[https://www.bilibili.com/video/av56327542?from=search&seid=8687889817241430603|【孟美岐】山支大哥【快本】个人完整版cut]]</jumbotron>
+===== 超新星全运会=====
+<jumbotron>[[https://www.bilibili.com/video/av36810452|全运会第四期 孟美岐cut]]</jumbotron>
+===== 火箭少女101研究所 =====
+<jumbotron>[[https://www.bilibili.com/video/av39799878|《火箭少女101研究所》孟美岐cut 合集]]</jumbotron>
+===== 一封家书=====
+<jumbotron>[[http://t.cn/E6IMXlg|孟美岐给爸妈的信]]</jumbotron>
+===== 篮球大唱片 =====
+<jumbotron>
+[[http://t.cn/EoXklDV|篮球大唱片第一期]]  [[http://t.cn/EKiR2Od|篮球大唱片第二期]]
+</jumbotron>
+===== 回家的礼物 =====
+<jumbotron>[[https://www.bilibili.com/video/av41625464| 回家的礼物 完整版 孟美岐cut]]</jumbotron>

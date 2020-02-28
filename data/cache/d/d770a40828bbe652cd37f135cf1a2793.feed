@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://39.105.111.35/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://39.105.111.35/feed.php">
+        <title>孟美岐百科站</title>
+        <description></description>
+        <link>http://39.105.111.35/</link>
+        <image rdf:resource="http://39.105.111.35/lib/exe/fetch.php?media=wiki:favicon.ico" />
+       <dc:date>2019-07-15T02:20:10+0800</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E9%A6%96%E9%A1%B5&amp;rev=1563112034&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=banner.jpg&amp;ns=&amp;rev=1563111996&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=wiki%3Alogo.png&amp;ns=wiki&amp;rev=1563110533&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E7%BE%8E%E5%B2%90%E8%AF%AD%E5%BD%95:%E7%BE%8E%E5%B2%90%E8%AF%AD%E5%BD%95&amp;rev=1563099036&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1563096490&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E7%BB%BC%E8%89%BAcut&amp;rev=1563095993&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E8%88%9E%E5%8F%B0%E4%B8%93%E9%A2%98&amp;rev=1563095430&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9:%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9&amp;rev=1563016802&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E5%B1%B1%E6%94%AF%E8%AF%8D%E5%85%B8:%E5%B1%B1%E6%94%AF%E8%AF%8D%E5%85%B8&amp;rev=1562981995&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81&amp;rev=1562957546&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E8%A1%8C%E7%A8%8B%E5%A4%A7%E5%85%A8:%E8%A1%8C%E7%A8%8B%E5%A4%A7%E5%85%A8&amp;rev=1562922601&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=wiki%3Afavicon.ico&amp;ns=wiki&amp;rev=1562866359&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=bg-white.jpg&amp;ns=&amp;rev=1562860859&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E7%B2%89%E4%B8%9D%E5%89%AA%E8%BE%91&amp;rev=1562659078&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E7%BA%BD%E7%BA%A6%E6%98%A5%E5%A4%8F%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561758391&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E7%BA%BD%E7%BA%A6%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561758381&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E5%B7%B4%E9%BB%8E%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561757726&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E9%AB%98%E6%B4%81%E4%B8%9D.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561753869&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E4%B8%AD%E5%8D%8E%E7%89%99%E8%86%8F.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561752519&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://39.105.111.35/lib/exe/fetch.php?media=wiki:favicon.ico">
+        <title>孟美岐百科站</title>
+        <link>http://39.105.111.35/</link>
+        <url>http://39.105.111.35/lib/exe/fetch.php?media=wiki:favicon.ico</url>
+    </image>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E9%A6%96%E9%A1%B5&amp;rev=1563112034&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-14T21:47:14+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>点击收获爱情⇓</title>
+        <link>http://39.105.111.35/doku.php?id=%E9%A6%96%E9%A1%B5&amp;rev=1563112034&amp;do=diff</link>
+        <description>点击收获爱情⇓
+
+
+
+
+
+
+
+	*  个人百科
+	*  演艺经历
+	*  演唱会
+	*  音乐作品
+	*  影视作品
+	*  综艺作品
+	*  杂志写真
+	*  商务代言
+	*  奖项荣誉
+
+
+
+	*  2019-06-28 《NYLON尼龙》2019年七月刊孟美岐封面 预售
+	*  2019-06-29 《明日之子》第二期播出
+
+
+视频合集 index
+
+
+
+
+	*  图站微博
+	*  资源博
+	*  时尚同款博
+	*  粉丝组织
+	*  散粉组织
+	*  地方组织</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=banner.jpg&amp;ns=&amp;rev=1563111996&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-14T21:46:36+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>banner.jpg - 创建</title>
+        <link>http://39.105.111.35/doku.php?image=banner.jpg&amp;ns=&amp;rev=1563111996&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=500&amp;h=212&amp;t=1563111996&amp;amp;tok=a38587&amp;amp;media=banner.jpg&quot; alt=&quot;banner.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=wiki%3Alogo.png&amp;ns=wiki&amp;rev=1563110533&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-14T21:22:13+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>wiki:logo.png</title>
+        <link>http://39.105.111.35/doku.php?image=wiki%3Alogo.png&amp;ns=wiki&amp;rev=1563110533&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=500&amp;h=500&amp;t=1563110533&amp;amp;tok=01e807&amp;amp;media=wiki:logo.png&quot; alt=&quot;wiki:logo.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E7%BE%8E%E5%B2%90%E8%AF%AD%E5%BD%95:%E7%BE%8E%E5%B2%90%E8%AF%AD%E5%BD%95&amp;rev=1563099036&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-14T18:10:36+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>美岐语录</title>
+        <link>http://39.105.111.35/doku.php?id=%E7%BE%8E%E5%B2%90%E8%AF%AD%E5%BD%95:%E7%BE%8E%E5%B2%90%E8%AF%AD%E5%BD%95&amp;rev=1563099036&amp;do=diff</link>
+        <description>美岐语录
+
+
+
+	&quot;“我有一句很俗的那个座右铭是，是金子总会发光。” 
+
+“我站在这个位置，我绝对不会辜负每一个对我抱有希望的人。”&quot;
+
+
+
+	&quot;“肯定不会所有人都喜欢你啊，所以就努力，让喜欢你的人更喜欢你，让讨厌你的人没那么讨厌你就好了。</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1563096490&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-14T17:28:10+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>个人百科 - [奖项荣誉] </title>
+        <link>http://39.105.111.35/doku.php?id=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1563096490&amp;do=diff</link>
+        <description>个人百科
+
+基本信息
+孟美岐,1998年10月15日出生于河南省洛阳市，中国内地流行乐女歌手、演员，女子演唱组合火箭少女101、宇宙少女成员。
+2016年2月25日，随宇宙少女组合正式出道；12月，在爱情电影《舞出我人生之舞所不能》中饰演小飞 。2017年6月7日，随组合推出专辑《HAPPY MOMENT》；同年，在爱情电影《蓝色生死恋》中饰演欣爱。</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E7%BB%BC%E8%89%BAcut&amp;rev=1563095993&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-14T17:19:53+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>综艺cut - [综艺cut] </title>
+        <link>http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E7%BB%BC%E8%89%BAcut&amp;rev=1563095993&amp;do=diff</link>
+        <description>综艺cut
+
+	*  明日之子第三季
+	*  横冲直撞二十岁
+	*  创造101
+	*  篮球大唱片
+	*  火箭少女101研究所
+
+	*  快乐大本营
+	*  超新星全运会
+	*  回家的礼物
+	*  一封家书
+	*  星空下的演讲
+
+明日之子第三季
+分集正片花絮先导片星推官集结篇【正片】星推官集结篇【花絮】第一期第一期正片第一期花絮 
+第1&amp;2期评星全记录
+横冲直撞二十岁
+ 期数       正片链接        花絮链接          特约版链接          第二期    第2期正片第2期花絮 第2期特约版       第三期…</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E8%88%9E%E5%8F%B0%E4%B8%93%E9%A2%98&amp;rev=1563095430&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-14T17:10:30+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>舞台专题</title>
+        <link>http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E8%88%9E%E5%8F%B0%E4%B8%93%E9%A2%98&amp;rev=1563095430&amp;do=diff</link>
+        <description>舞台专题
+
+1.个人舞台
+
+	*  20190622明日之子第三季导师秀《犟》 
+	*  20190615快乐大本营《犟》 
+
+	*  20190511冰红茶见面会《有种》 
+
+
+20190330广州演唱会-软带舞 
+
+20190223北京演唱会《Gravity》 
+
+20190112上海演唱会-舞蹈solo
+
+20181022广州冰红茶见面会《Lay Me Down》
+20180607Doki爬梯freestyle
+20180525苏州麦当劳FM《红色高跟鞋》
+20180525苏州麦当劳FM《pick me up》
+20180831明日之子《我的地盘》
+20161028大牌对王牌翻跳《the water dance》
+dance freestyle《Work》Rihanna
+
+待添加
+
+2.团体舞台
+20190608创造营总决赛《风》
+20190608创造营总决赛《pick me up》
+20190511武汉冰红茶见面会《pick me up》
+20190511武汉冰红茶见面会《Rocket Girls》
+20190408NBA火箭队主场《荣誉星球》
+20190330广州演唱会直拍合…</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9:%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9&amp;rev=1563016802&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-13T19:20:02+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>粉丝站点 - [粉丝站点] </title>
+        <link>http://39.105.111.35/doku.php?id=%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9:%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9&amp;rev=1563016802&amp;do=diff</link>
+        <description>粉丝站点
+
+
+值得关注的各大孟美岐粉丝组织的微博、站点一览
+孟美岐官方粉丝会和超话管理的微博 孟美岐LoveMQ应援团 辣舞美岐1015 孟美岐网宣组 孟美岐超话管理 孟美岐MQ安利站 孟美岐爆肝控评组 孟美岐MQ净化组 孟美岐爆肝数据站 组织或个人线下跟拍孟美岐返图的站子站名     状态 一顧傾人_MeiQi1015运行 KoalaBear1015_孟美岐运行 shining_MeiQi运行 Blossom丨孟美岐运行 十四行詩Aurum_孟美岐运行 Secret丨MeiQi1015运行 编码M7_孟美岐运行 Series1015_孟美岐运行 MeiQi_FanQie1015运行…</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E5%B1%B1%E6%94%AF%E8%AF%8D%E5%85%B8:%E5%B1%B1%E6%94%AF%E8%AF%8D%E5%85%B8&amp;rev=1562981995&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-13T09:39:55+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>山支词典 - [山支词典] </title>
+        <link>http://39.105.111.35/doku.php?id=%E5%B1%B1%E6%94%AF%E8%AF%8D%E5%85%B8:%E5%B1%B1%E6%94%AF%E8%AF%8D%E5%85%B8&amp;rev=1562981995&amp;do=diff</link>
+        <description>山支词典
+
+
+孟美岐本人和孟美岐粉圈梗收集
+
+NBJJ
+
+
+女兵姐姐，又名暖宝姐姐。孟美岐粉丝代称。
+
+山支大队
+
+
+孟美岐粉丝代称。
+
+&lt;box orange round 100%|Akkordskala-app&gt;
+[alternate-text]
+&lt;/box&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81&amp;rev=1562957546&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-13T02:52:26+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>音乐作品 - 已恢复为旧版 (2019/07/04 01:30)</title>
+        <link>http://39.105.111.35/doku.php?id=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81&amp;rev=1562957546&amp;do=diff</link>
+        <description>音乐作品
+
+
+孟美岐个人及团队音乐作品 
+
+ 
+个人作品
+
+
+《犟》官方正式版MV 
+----2019.05.11 
+
+ 
+MV体现了火箭少女101孟美岐为了实现梦想作出的每一步努力，讲述了孟美岐通过自己的倔犟坚持，最终破茧成蝶的故事。MV以音乐剧般的表现形式，运用五大场景：通往梦想之门的走廊、华丽的大厅、排练室、剧院、霓虹色彩装饰的空间，进行场景串联，整体画面充实又饱满。</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E8%A1%8C%E7%A8%8B%E5%A4%A7%E5%85%A8:%E8%A1%8C%E7%A8%8B%E5%A4%A7%E5%85%A8&amp;rev=1562922601&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-12T17:10:01+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>行程大全 - [2019年] </title>
+        <link>http://39.105.111.35/doku.php?id=%E8%A1%8C%E7%A8%8B%E5%A4%A7%E5%85%A8:%E8%A1%8C%E7%A8%8B%E5%A4%A7%E5%85%A8&amp;rev=1562922601&amp;do=diff</link>
+        <description>行程大全
+
+
+点开月份按钮可查看详细行程，不够完整，仍需补充。 
+
+
+2019年
+
+2019年
+12月
+11月
+10月
+9月
+8月
+7月
+6月
+5月
+4月
+3月
+2月
+1月
+
+
+	*  07月01日 北京飞无锡
+	*  07月02日 《明日之子》录制
+	*  07月03日</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=wiki%3Afavicon.ico&amp;ns=wiki&amp;rev=1562866359&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-12T01:32:39+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>wiki:favicon.ico - 创建</title>
+        <link>http://39.105.111.35/doku.php?image=wiki%3Afavicon.ico&amp;ns=wiki&amp;rev=1562866359&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=bg-white.jpg&amp;ns=&amp;rev=1562860859&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-12T00:00:59+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>bg-white.jpg - 创建</title>
+        <link>http://39.105.111.35/doku.php?image=bg-white.jpg&amp;ns=&amp;rev=1562860859&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=500&amp;h=288&amp;t=1562860859&amp;amp;tok=d8a9fd&amp;amp;media=bg-white.jpg&quot; alt=&quot;bg-white.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E7%B2%89%E4%B8%9D%E5%89%AA%E8%BE%91&amp;rev=1562659078&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-09T15:57:58+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>粉丝剪辑</title>
+        <link>http://39.105.111.35/doku.php?id=%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86:%E7%B2%89%E4%B8%9D%E5%89%AA%E8%BE%91&amp;rev=1562659078&amp;do=diff</link>
+        <description>粉丝剪辑
+
+孟美岐｜《月亮警察》五机位直拍
+
+
+wjsn《Happy》11个直拍舞台换装混剪
+
+
+《Starry Moment》镜头打歌服混剪7合1
+
+
+WJSN八大舞台 高清混剪
+
+
+Dreams come true打歌服10in1混剪
+
+【孟美岐】Mother's Daughter
+
+
+【孟美岐】成名在望 | 少年回头望，笑我还不快跟上
+
+
+【孟美岐 | 生贺】你岂止偶像歌手/你岂止恶劣传说
+
+
+【孟美岐丨催泪向】让我留在你身边
+
+
+【孟美岐】一年了，我还在回味创造101『一周年燃向混剪』
+
+明日之子3导师孟美岐实力现原形？唱歌跳舞直拍居然是这样……
+
+
+孟美岐唱歌片段合集
+孟美岐的打开方式（第一弹）
+
+
+孟美岐的打开方式（第二弹）
+
+
+【孟美岐】山支大哥爆笑艺能综艺合集大放送 真的不pick吗？
+
+
+【孟美岐】这可能不是你认识的山支哥 【第二弹】 综艺采访cut合集
+
+
+【孟美岐】你山支哥的哈哈哈哈哈哈哈哈合集（鬼畜）
+
+【孟美岐】翻跳《the water dance》分屏版
+
+
+孟美岐《生而为赢》上海站和广州站直拍对比
+
+
+孟美岐800w舞蹈福利和创时期doki机位舞蹈对比…</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E7%BA%BD%E7%BA%A6%E6%98%A5%E5%A4%8F%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561758391&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-29T05:46:31+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>个人百科:纽约春夏时装周.jpg - 创建</title>
+        <link>http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E7%BA%BD%E7%BA%A6%E6%98%A5%E5%A4%8F%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561758391&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=500&amp;h=375&amp;t=1561758391&amp;amp;tok=789bc9&amp;amp;media=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E7%BA%BD%E7%BA%A6%E6%98%A5%E5%A4%8F%E6%97%B6%E8%A3%85%E5%91%A8.jpg&quot; alt=&quot;个人百科:纽约春夏时装周.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E7%BA%BD%E7%BA%A6%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561758381&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-29T05:46:21+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>个人百科:纽约秋冬时装周.jpg</title>
+        <link>http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E7%BA%BD%E7%BA%A6%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561758381&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=500&amp;h=333&amp;t=1561758381&amp;amp;tok=bfecf0&amp;amp;media=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E7%BA%BD%E7%BA%A6%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&quot; alt=&quot;个人百科:纽约秋冬时装周.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E5%B7%B4%E9%BB%8E%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561757726&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-29T05:35:26+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>个人百科:巴黎秋冬时装周.jpg - 创建</title>
+        <link>http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E5%B7%B4%E9%BB%8E%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561757726&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=277&amp;h=500&amp;t=1561757726&amp;amp;tok=12c9bc&amp;amp;media=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E5%B7%B4%E9%BB%8E%E7%A7%8B%E5%86%AC%E6%97%B6%E8%A3%85%E5%91%A8.jpg&quot; alt=&quot;个人百科:巴黎秋冬时装周.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E9%AB%98%E6%B4%81%E4%B8%9D.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561753869&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-29T04:31:09+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>个人百科:高洁丝.jpg - 创建</title>
+        <link>http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E9%AB%98%E6%B4%81%E4%B8%9D.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561753869&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=480&amp;h=500&amp;t=1561753869&amp;amp;tok=5f631b&amp;amp;media=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E9%AB%98%E6%B4%81%E4%B8%9D.jpg&quot; alt=&quot;个人百科:高洁丝.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E4%B8%AD%E5%8D%8E%E7%89%99%E8%86%8F.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561752519&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-29T04:08:39+0800</dc:date>
+        <dc:creator>mmqwiki (mmqwiki@undisclosed.example.com)</dc:creator>
+        <title>个人百科:中华牙膏.jpg - 创建</title>
+        <link>http://39.105.111.35/doku.php?image=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91%3A%E4%B8%AD%E5%8D%8E%E7%89%99%E8%86%8F.jpg&amp;ns=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91&amp;rev=1561752519&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://39.105.111.35/lib/exe/fetch.php?w=500&amp;h=352&amp;t=1561752519&amp;amp;tok=91b617&amp;amp;media=%E4%B8%AA%E4%BA%BA%E7%99%BE%E7%A7%91:%E4%B8%AD%E5%8D%8E%E7%89%99%E8%86%8F.jpg&quot; alt=&quot;个人百科:中华牙膏.jpg&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

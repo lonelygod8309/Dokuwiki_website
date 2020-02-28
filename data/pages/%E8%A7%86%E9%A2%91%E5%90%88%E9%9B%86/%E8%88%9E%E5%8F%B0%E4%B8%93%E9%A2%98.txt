@@ -1,0 +1,120 @@
+====== 舞台专题 ======
+
+===== 1.个人舞台 =====
+<grid>
+<col sm="6">
+<panel title="2019年" subtitle="于2019/06/29更新" icon="glyphicon glyphicon-king " >
+  - [[https://www.bilibili.com/video/av56469213?from=search&seid=9493155733727602210|20190622明日之子第三季导师秀《犟》]] 
+  - [[https://www.bilibili.com/video/av55707168/|20190615快乐大本营《犟》]] \\
+  - [[https://www.bilibili.com/video/av52179303/|20190511冰红茶见面会《有种》]] \\
+[[https://weibo.com/tv/v/4355981660881807?fid=1034:4355981660881807|20190330广州演唱会-软带舞]] \\
+[[https://www.bilibili.com/video/av44528772/|20190223北京演唱会《Gravity》]] \\
+[[https://www.bilibili.com/video/av40605753/|20190112上海演唱会-舞蹈solo]]\\
+</panel>
+</col>
+
+<col sm="6">
+<panel title="2018年" icon="glyphicon glyphicon-king " ><list-group>
+[[https://www.bilibili.com/video/av34637567/?p=2|20181022广州冰红茶见面会《Lay Me Down》]]
+[[https://www.bilibili.com/video/av24711710|20180607Doki爬梯freestyle]]
+[[https://www.bilibili.com/video/av23980586|20180525苏州麦当劳FM《红色高跟鞋》]] 
+[[https://www.bilibili.com/video/av23985982|20180525苏州麦当劳FM《pick me up》]]
+[[https://www.bilibili.com/video/av31310581/|20180831明日之子《我的地盘》]]
+</list-group></panel>
+</col>
+</grid>
+
+<grid>
+<col sm="6">
+<panel title="2016年" icon="glyphicon glyphicon-king " ><list-group>
+[[https://www.bilibili.com/video/av40418960/|20161028大牌对王牌翻跳《the water dance》]]
+[[https://www.bilibili.com/video/av23764764|dance freestyle《Work》Rihanna]]
+\\ **待添加**
+</list-group></panel>
+</col>
+</grid>
+
+===== 2.团体舞台 =====
+<grid>
+<col sm="6">
+<panel title="2019年" icon="glyphicon glyphicon-king " ><list-group>
+[[https://www.bilibili.com/video/av55001968/|20190608创造营总决赛《风》]]
+[[https://www.bilibili.com/video/av55005030/|20190608创造营总决赛《pick me up》]]
+[[https://weibo.com/tv/v/HtJFTplyx?fid=1034:4370870093741851|20190511武汉冰红茶见面会《pick me up》]]
+[[https://weibo.com/tv/v/HtK869GOY?fid=1034:4370887378417387|20190511武汉冰红茶见面会《Rocket Girls》]]
+[[https://www.meipai.com/media/1100286103|20190408NBA火箭队主场《荣誉星球》]]
+[[https://weibo.com/tv/v/4356254337026986?fid=1034:4356254337026986|20190330广州演唱会直拍合集]]
+[[https://www.bilibili.com/video/av44532091/|20190223北京演唱会直拍合集]]
+[[https://www.bilibili.com/video/av42395397/|20190221即刻电音总决赛《God like》]]
+[[https://weibo.com/tv/v/4328104467047178?fid=1034:4328104467047178|20190113南京烎 潮音发布夜《卡路里》]]
+[[https://weibo.com/tv/v/4328104467047178?fid=1034:4328104467047178|20190113南京烎 潮音发布夜《卡路里》]]   
+[[https://weibo.com/tv/v/HbN42AnPG?fid=1034:4328101891514775|20190113南京烎 潮音发布夜《生而为赢》]]
+[[https://weibo.com/tv/v/4328106438383980?fid=1034:4328106438383980|20190113南京烎 潮音发布夜《月亮警察》]]
+[[https://www.bilibili.com/video/av40606948/?p=4|20190112上海演唱会直拍合集]]
+[[https://www.bilibili.com/video/av40605954/|20190112上海演唱会《生而为赢》男团舞版本]]
+</list-group></panel>
+<panel title="2017年" icon="glyphicon glyphicon-king " ><list-group>
+[[https://www.bilibili.com/video/av22857409/?spm_id_from=333.788.videocard.0|20171221平昌冬奥会《是秘密呀》]]
+[[https://www.bilibili.com/video/av22857409/?p=2|20171221平昌冬奥会《I Wish》]]
+[[https://www.bilibili.com/video/av23179168|20171103宇宙少女《I Wish》&《Secret》]]
+[[https://www.bilibili.com/video/av24546271|20171014fancam剪辑（美岐伪Focus）《Catch me》]]
+[[https://www.bilibili.com/video/av28794220?from=search&seid=3864357898378251624|20171012雨中《Catch me》多机位]]
+[[https://www.bilibili.com/video/av29102119|20170819KCON LA《I Need U》多机位饭拍]]
+[[https://www.bilibili.com/video/av23242090?from=search&seid=7956418984502231984|20170812DMZ演唱会《Happy》]]
+[[https://www.bilibili.com/video/av23222050?from=search&seid=8877321248502381359|20170708MBC Music Core 《Happy》]]
+[[https://www.bilibili.com/video/av36785920/|20170526《MOMOMO》]]
+[[https://www.bilibili.com/video/av23179133|20170520宇宙少女 MeiQi & Yeoreum (Happy Moment Concert)]]
+[[https://www.bilibili.com/video/av55987286/|20170520成人礼舞蹈]]
+[[https://www.bilibili.com/video/av23719854/|20170515《MOMOMO》]]
+[[https://www.bilibili.com/video/av28259736/|20170422《MOMOMO》]] 
+[[https://www.bilibili.com/video/av23225534/|20170409衿川和谐樱花节 《MOMOMO》]]
+[[https://www.bilibili.com/video/av27238176/|20170408《MOMOMO》]]
+</list-group></panel>
+<panel title="2016年" icon="glyphicon glyphicon-king " ><list-group>
+[[https://www.bilibili.com/video/av37972429/|20161009《MOMOMO》]]
+[[https://www.bilibili.com/video/av23070816?from=search&seid=8097884688540043898|20160806 KT GIGA Legends Match 《Catch Me》]]
+[[https://www.bilibili.com/video/av25211069|20160220 GIGA Legend Match《Catch Me》 ]]
+</list-group></panel>
+</col>
+
+<col sm="6">
+<panel title="2018年" icon="glyphicon glyphicon-king " ><list-group>
+[[https://weibo.com/tv/v/4314011140066648?fid=1034:4314011140066648|20181201成都首唱会《生而为赢》]]
+[[https://weibo.com/tv/v/H5gGnedHR?fid=1034:4312557406866854|20181201成都首唱会《Light》]]
+[[https://weibo.com/tv/v/H5gq3u31U?fid=1034:4312547189543612|20181201成都首唱会《pick me up》]]
+[[https://weibo.com/tv/v/H5gi2ehfL?fid=1034:4312542332535242|20181201成都首唱会《月亮警察》]]
+[[https://www.bilibili.com/video/av37875200/|20181201成都首唱会全程直拍]]
+[[https://www.bilibili.com/video/av36284574/|20181118由你音乐榜《月亮警察》]]
+[[https://www.bilibili.com/video/av36194006/|20181117上海见面会《月亮警察》]] 
+[[https://www.bilibili.com/video/av35888714/|20181110超新星全运会《生而为赢》]]
+[[https://weibo.com/tv/v/H1JpK9EkT?fid=1034:4304128940167695|20181108腾讯v视界大会《月亮警察》]]
+[[https://www.bilibili.com/video/av35033681/|20181031超新星全运会开幕式《生而为赢》]]
+[[https://weibo.com/tv/v/4301318651620573?fid=1034:4301318651620573|20181031超新星全运会开幕式《Light》]]
+[[https://www.bilibili.com/video/av34637567/?p=3|20181022广州冰红茶见面会《Rocket Girls》]]
+[[https://www.bilibili.com/video/av34637567/?p=4|20181022广州冰红茶见面会《pick me up》]]
+[[https://www.bilibili.com/video/av34713885/?p=2|20181017中国音乐公告牌《Light》]]
+[[https://weibo.com/tv/v/GDLX0yfML?fid=1034:4294791098524012|20181013张杰演唱会《卡路里》]]
+[[https://www.bilibili.com/video/av32123560/?p=19|20180916南京LOL七周年狂欢《pick me up》]]
+[[https://www.bilibili.com/video/av31989060/?p=6|20180915企鹅篮球名人赛《pick me up》]]
+[[https://weibo.com/tv/v/GvZOJoqTJ?fid=1034:4276257924542550|20180823西安活动《pick me up》二倍速版]]
+[[https://www.bilibili.com/video/av27493306/?p=2|20180722美图变身节《pick me up》]]
+[[https://www.bilibili.com/video/av27493306/?p=3|20180722美图变身节《Rocket Girls》]]
+[[https://www.bilibili.com/video/av26298017/|20180706跑男嘉年华《pick me up》]]
+[[https://www.bilibili.com/video/av25528314/|20180624湖南卫视青春歌会《热单串烧+Rocket Girls》]]
+[[https://www.bilibili.com/video/av24757990|20180611酷狗音乐见面会《红色高跟鞋》]]
+[[https://m.weibo.cn/6019366761/4249828722272128|20180611酷狗见面会《pick me up》]]
+[[https://m.weibo.cn/5813256522/4249302094107204|20180610《创造101》第三场公演《我就是这种女孩》]]
+[[https://www.bilibili.com/video/av24711473|20180607Doki爬梯《pick me up》]]
+[[https://m.weibo.cn/5813256522/4244232275341737|20180527《创造101》第二场公演《忐忑》]]
+[[https://www.bilibili.com/video/av23703772|20180519上海OPPO红蓝音乐节《撑腰》]]
+[[https://m.weibo.cn/5813256522/4236624743632786|20180506《创造101》第一场公演《撑腰》]]
+[[https://m.weibo.cn/5813256522/4232639449254612|20180425《pick me up》]]
+[[https://www.bilibili.com/video/av23096750|20180317《Dreams come True》]]
+[[https://www.bilibili.com/video/av22947086?from=search&seid=16217056119764557426|20180303《Dreams come True 》]]
+[[https://www.bilibili.com/video/av56235430?from=search&seid=8877321248502381359|20180210《HAPPY》彩排]]
+[[https://www.bilibili.com/video/av23225570?from=search&seid=8877321248502381359|20180113 平昌冬奥会庆祝公演 《Happy》]] 
+[[https://www.bilibili.com/video/av23225438/?spm_id_from=333.788.videocard.0|20180113 平昌冬奥会庆祝公演 《Secret》]] 
+</list-group></panel>
+</col>
+</grid>
+

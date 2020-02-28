@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://39.105.111.35/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://39.105.111.35/feed.php">
+        <title>孟美岐百科站</title>
+        <description></description>
+        <link>http://39.105.111.35/</link>
+        <image rdf:resource="http://39.105.111.35/lib/tpl/sprintdoc/images/favicon.ico" />
+       <dc:date>2019-07-07T23:01:11+0800</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E7%99%BE%E7%A7%91%E8%A7%84%E8%8C%83&amp;rev=1561555733&amp;do=diff"/>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E9%A6%96%E9%A1%B5&amp;rev=1562006781&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://39.105.111.35/lib/tpl/sprintdoc/images/favicon.ico">
+        <title>孟美岐百科站</title>
+        <link>http://39.105.111.35/</link>
+        <url>http://39.105.111.35/lib/tpl/sprintdoc/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E7%99%BE%E7%A7%91%E8%A7%84%E8%8C%83&amp;rev=1561555733&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-26T21:28:53+0800</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>DokuWiki格式语法说明</title>
+        <link>http://39.105.111.35/doku.php?id=%E7%99%BE%E7%A7%91%E8%A7%84%E8%8C%83&amp;rev=1561555733&amp;do=diff</link>
+        <description>DokuWiki格式语法说明
+
+DokuWiki 支持一些简单的标记语言, 以尽最大可能使文档看上去更友好。本页面包含了所有你在编辑页面时可能用到的语法的说明。如果需要查看本页源码，只需要点击页面顶部或者底部的</description>
+    </item>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E9%A6%96%E9%A1%B5&amp;rev=1562006781&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-02T02:46:21+0800</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>欢迎访问孟美岐百科站！</title>
+        <link>http://39.105.111.35/doku.php?id=%E9%A6%96%E9%A1%B5&amp;rev=1562006781&amp;do=diff</link>
+        <description>欢迎访问孟美岐百科站！
+
+ 
+
+这里是孟美岐资料中心，集中收录孟美岐相关的各种资料和资源。包括个人百科、作品合集、视频合集、行程动态、相关粉丝站点，还包括孟美岐语录和相关的词条解释。视频合集 index</description>
+    </item>
+</rdf:RDF>

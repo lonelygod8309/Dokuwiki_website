@@ -1,0 +1,101 @@
+{{ ::banner.jpg?nolink |}}
+<grid>
+<col xs="12" sm="6">
+<callout>
+<html>
+<span style="color:#5f4b8b;font-size:120%;"><b>这里是孟美岐资料中心，集中收录孟美岐相关的各种资料和资源。包括个人百科、作品合集、视频合集、行程动态、相关粉丝站点，还包括孟美岐语录和相关的词条解释。</b></span>
+</html>
+</callout>
+</col>
+<col xs="12" sm="6">
+<callout type="tip" icon="true" title="每日一句|美岐语录">
+<html>
+<span style="color:#5f4b8b;font-size:120%;"><b>“我有一句很俗的那个座右铭是，是金子总会发光的。”</b></span>
+</html>
+</callout>
+</col>
+</grid>
+
+==== 点击收获爱情⇓ ====
+<WRAP group>
+<WRAP half column>
+<html>
+<iframe src="//player.bilibili.com/player.html?aid=23102504&cid=38433919&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width=100%  height="360" allowfullscreen="true"> </iframe>
+</html>
+</WRAP>
+
+<WRAP half column>
+<html><iframe src="//player.bilibili.com/player.html?aid=54876407&cid=95974936&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width=100% height="360" allowfullscreen="true"> </iframe>
+</html>
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<callout type="tip" icon="true" title="来了解下山支大哥吧！">
+
+<WRAP left round box 100%>
+<html>
+<span style="color:#5f4b8b;font-size:120%;">孟美岐个人百科</span>
+<br><fs smaller>| 孟美岐资料大全</fs></br>
+</html>
+  * [[个人百科:个人百科]]
+  * [[个人百科:演艺经历]]
+  * [[个人百科:个人百科#演唱会|演唱会]]
+  * [[个人百科:音乐作品|音乐作品]]
+  * [[个人百科:个人百科#影视作品|影视作品]]
+  * [[个人百科:个人百科#综艺作品|综艺作品]]
+  * [[个人百科:个人百科#杂志写真|杂志写真]]
+  * [[个人百科:个人百科#商务代言|商务代言]]
+  * [[个人百科:个人百科#奖项荣誉|奖项荣誉]]
+</WRAP>
+</callout>
+</WRAP>
+
+<WRAP half column>
+<callout type="tip" icon="true" title="看看她最近在干嘛嘞">
+<WRAP left round box 100%>
+<html>
+<span style="color:#5f4b8b;font-size:120%;">最新动态</span>
+<br><fs smaller>| 于2019-06-29更新</fs></br>
+</html>
+  * 2019-06-28 《NYLON尼龙》2019年七月刊孟美岐封面 预售
+  * 2019-06-29 《明日之子》第二期播出
+</WRAP>
+</callout>
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<callout type="tip" icon="true" title="你，可以吗¿">
+<WRAP left round box 100%>
+<html>
+<span style="color:#5f4b8b;font-size:120%;">视频合集</span>
+<br><fs smaller>| 物料大礼包</fs></br>
+</html>
+{{indexmenu>视频合集#1}}
+</WRAP>
+</callout>
+</WRAP>
+
+<WRAP half column>
+<callout type="tip" icon="true" title="追岐路上不孤单☺">
+<WRAP left round box 100%>
+<html>
+<span style="color:#5f4b8b;font-size:120%;">粉丝站点</span>
+<br><fs smaller>| 粉丝组织汇总</fs></br>
+</html>
+  * [[粉丝站点:粉丝站点#图站微博|图站微博]]
+  * [[粉丝站点:粉丝站点#资源博|资源博]]
+  * [[粉丝站点:粉丝站点#时尚同款博|时尚同款博]]
+  * [[粉丝站点:粉丝站点#粉丝组织|粉丝组织]]
+  * [[粉丝站点:粉丝站点#散粉组织|散粉组织]]
+  * [[粉丝站点:粉丝站点#地方组织|地方组织]]
+</WRAP>
+</callout>
+</WRAP>
+</WRAP>
+
+
+

@@ -1,0 +1,95 @@
+<jumbotron>
+====== 音乐作品 ======
+孟美岐个人及团队音乐作品 \\ 
+</jumbotron>
+<callout type="default"><html><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=10% src="//music.163.com/outchain/player?type=2&id=1339725674&auto=1"></iframe></iframe></html> </callout>
+===== 个人作品 =====
+<grid>
+<col xs="12" sm="4">
+<thumbnail>
+{{ wiki:JIANG.jpg }}
+<caption>
+[[https://y.qq.com/n/yqq/mv/v/s0030l3laj2.html|《犟》官方正式版MV]] \\ ----2019.05.11 \\
+// 
+MV体现了火箭少女101孟美岐为了实现梦想作出的每一步努力，讲述了孟美岐通过自己的倔犟坚持，最终破茧成蝶的故事。MV以音乐剧般的表现形式，运用五大场景：通往梦想之门的走廊、华丽的大厅、排练室、剧院、霓虹色彩装饰的空间，进行场景串联，整体画面充实又饱满。//
+</caption>
+</thumbnail>
+</col>
+
+<col xs="12" sm="4">
+<thumbnail>
+{{ wiki:JIANG_DANCE2.jpg }}
+<caption>
+[[https://y.qq.com/n/yqq/mv/v/s00305bkm66.html|《犟》一镜到底舞蹈版MV]] \\ ----2019.04.30 \\
+
+//
+整支舞蹈风格则融入了HIP-HOP及JAZZ FUNK，舞蹈编排把饰演不同角色的舞者和美岐巧妙地搭配起来。三分钟的MV，舞蹈经历多次的队形变化：八人齐舞、五人齐舞、个人solo、双人舞等，十分考验体能、速度、默契度与精准度。在舞蹈技巧方面，孟美岐分别运用了擅长的腰部、胯部等必杀舞蹈技巧，还加入了干净利落的地板动作。//
+</caption>
+</thumbnail>
+</col>
+
+<col xs="12" sm="4">
+<thumbnail>
+{{ wiki:有种.jpg }}
+<caption>
+[[https://y.qq.com/n/yqq/mv/v/q00292k6rh3.html|《有种》电影<流浪地球>推广曲官方MV]] \\ ----2019.01.16 \\
+
+// 
+“Helios”是电影中“火种计划”的英语代号，也是《有种》名字的由来。就像“冒险小分队”的倔强精神一样，即使严寒肆虐，前路艰难，也不卑不亢不服输！只相信英勇，拼到最尽头！//
+</caption>
+</thumbnail>
+</col>
+</grid>
+
+<panel type="success" title="迷你数字专辑"  no-body="true">
+^ 专辑名称 ^ 发行时间 ^专辑曲目^ 语言 ^ 销量 ^在线收听^
+| 犟 | 2019年4月23日 | 01.犟<label type="warning">[[https://y.qq.com/n/yqq/mv/v/s0030l3laj2.html|MV]]</label>  \\ 02.陌生的女孩 \\ 03.犟(伴奏) \\ 04.陌生的女孩(伴奏)| 国语 | 200万张|[[https://y.qq.com/n/yqq/album/000etWPH2Sk6kG.html |点击收听]]|
+</panel>
+
+<panel type="success" title="OST"  no-body="true">
+^ 歌曲名称 ^ 所属电影 ^ 发行时间 ^ 在线收听^
+| 有种(电影《流浪地球》推广曲)<label type="warning">[[https://y.qq.com/n/yqq/mv/v/q00292k6rh3.html|MV]]</label>|《流浪地球》|2019年1月15日|[[https://music.163.com/#/song?id=1339725674|点击收听]]|
+</panel>
+
+<panel type="success" title="综艺演唱"  no-body="true">
+^ 歌曲名称 ^ 所属综艺 ^ 发行时间^ 在线收听^
+| 犟(Live)<label type="warning">[[https://y.qq.com/n/yqq/mv/v/i0031zhtu3n.html|MV]]</label> | 《明日之子》水晶时代第一期|2019年6月22日|[[https://y.qq.com/n/yqq/song/004NX3m71oJO5j.html|点击收听]]|
+</panel>
+
+
+===== 团队作品 =====
+<panel type="success" title="团队专辑"  no-body="true">
+^ 专辑名称 ^ 发行时间 ^ 所在组合 ^ 专辑曲目 ^ 类型  ^在线收听^
+| 立风 |2019年6月23日 | 火箭少女101 | <button type="default" size="sm" collapse="立风">查看曲目</button> \\ <collapse id="立风" collapsed="true">01.风   <label type="warning">[[https://v.qq.com/x/cover/x6y6l2e5a2ich2q/d0031svuqb4.html|MV]]</label> 
+ \\ 待定</collapse> | 录音室专辑 |[[https://y.qq.com/n/yqq/album/0018oANt3Hd7ZE.html |点击收听]]|
+| 撞 |2018年8月18日 | 火箭少女101 |<button type="default" size="sm" collapse="撞">查看曲目</button> \\ <collapse id="撞" collapsed="true">01.撞 \\ 02.Light <label type="warning">[[https://y.qq.com/n/yqq/mv/v/t00274ylzi6.html|MV]]</label>  \\ 03.月亮警察<label type="warning">[[https://y.qq.com/n/yqq/mv/v/h0027jx0s85.html|MV]]</label> \\ 04.生而为赢<label type="warning">[[https://y.qq.com/n/yqq/mv/v/g0027plf6aa.html|MV]]</label> \\ 05.撞(伴奏) \\ 06.Light(伴奏) \\ 07.月亮警察(伴奏) \\ 08.生而为赢(伴奏)</collapse> | 迷你数字专辑 |[[https://y.qq.com/n/yqq/album/001zLxbr23aBw9.html |点击收听]]|
+| 上场 | 2019年4月8日| 火箭少女101  | <button type="default" size="sm" collapse="上场">查看曲目</button> \\ <collapse id="上场" collapsed="true">01.荣誉星球 <label type="warning">[[https://y.qq.com/n/yqq/mv/v/c00307m4q17.html|MV]]</label> \\ 02.荣誉星球(伴奏)</collapse>| 单曲 |[[https://y.qq.com/n/yqq/song/003H82wp0j8u2Z.html|点击收听]]|
+| 横冲直撞下一站 |2019年1月14日| 火箭少女101  | <button type="default" size="sm" collapse="横冲直撞下一站">查看曲目</button> \\ <collapse id="横冲直撞下一站" collapsed="true">01.横冲直撞下一站<label type="warning">[[https://y.qq.com/n/yqq/mv/v/e0029xi62yb.html|MV]]</label> \\ 02.横冲直撞下一站(伴奏)</collapse>| 单曲 |[[https://y.qq.com/n/yqq/song/002zAlqa0PBUem.html|点击收听]]|
+| Dream your dream |2018年2月27日 | 宇宙少女 | <button type="default" size="sm" collapse="宇宙少女5">查看曲目</button> \\ <collapse id="宇宙少女5" collapsed="true">01.꿈꾸는 마음으로 (无限大梦想) (Korean Ver.)<label type="warning">[[https://music.163.com/#/mv?id=5842108|MV]]</label> \\ 02.호두까기 인형 (胡桃夹子) \\ 03.르네상스 (文艺复兴) \\ 04.설레는 밤 (激动的夜晚) \\ 05.겨울잠 (冬眠) \\ 06.꿈꾸는 마음으로 (Chinese Ver.)</collapse>| 迷你专辑 | [[https://music.163.com/#/album?id=37542599 |点击收听]]|
+| HAPPY MOMENT |2017年6月7日 | 宇宙少女 | <button type="default" size="sm" collapse="宇宙少女4">查看曲目</button> \\ <collapse id="宇宙少女4" collapsed="true">01.Happy<label type="warning">[[https://music.163.com/#/mv?id=5558038|MV]]</label> \\ 02.기적 같은 아이 (Miracle) \\ 03.Mr. BADBOY \\ 04.SUGAR \\ 05.Babyface \\ 06.퐁당퐁당 (Plop Plop) \\ 07.Follow Me \\ 08.B.B.B.Boo \\ 09.Geeminy \\ 10.지금 만나러 가요 (Closer to you)</collapse> | 录音室专辑 | [[https://music.163.com/#/album?id=35590225 |点击收听]]|
+| From. 宇宙少女 |2017年1月14日 | 宇宙少女 | <button type="default" size="sm" collapse="宇宙少女3">查看曲目</button> \\ <collapse id="宇宙少女3" collapsed="true">01.너에게 닿기를 (I Wish)<label type="warning">[[https://music.163.com/#/mv?id=5430061|MV]]</label> \\ 02.Baby Come To Me \\ 03.주세요 (Say Yes) \\ 04.최애 (Perfect!) \\ 05.이리와 (Hug U) \\ 06.너에게 닿기를 (靠近你的心) (中文版)<label type="warning">[[https://music.163.com/#/mv?id=5404764|MV]]</label></collapse> | 迷你专辑 | [[https://music.163.com/#/album?id=35105275 |点击收听]]|
+| THE SECRET |2016年8月17日 | 宇宙少女 | <button type="default" size="sm" collapse="宇宙少女2">查看曲目</button> \\ <collapse id="宇宙少女2" collapsed="true">01.비밀이야 (Secret) \\ 02.BeBe \\ 03.우주키스미? (Would You Kiss Me?) \\ 04.쨘! (Prince) \\ 05.ROBOT \\ 06.이층침대 (Good Night) \\ 07.Secret (中文版)</collapse> | 迷你专辑 |[[https://music.163.com/#/album?id=34826040|点击收听]]|
+| WOULD YOU LIKE? |2016年2月25日 | 宇宙少女 | <button type="default" size="sm" collapse="宇宙少女1">查看曲目</button> \\ <collapse id="宇宙少女1" collapsed="true">01.Space Cowgirl (Intro) \\ 02.MoMoMo \\ 03.Catch Me \\ 04.Tick-Tock \\ 05.Take My Breath \\ 06.MoMoMo (中文版)</collapse>| 迷你专辑 | [[https://music.163.com/#/album?id=34502211|点击收听]]|
+</panel>
+
+
+<panel type="success" title="OST"  no-body="true">
+^ 歌曲名称 ^ 所属电影 ^ 发行时间 ^ 在线收听^
+| 银河系Disco （电影《疯狂的外星人》宣传主题曲）|《疯狂的外星人》|2019年1月28日|[[https://y.qq.com/n/yqq/song/000RxHNy1WqRH1.html|点击收听]]|
+| 福气拱拱来 \\ （电影《熊出没·原始时代》片尾曲）<label type="warning">[[https://y.qq.com/n/yqq/mv/v/l0029239gst.html |MV]]</label>|《熊出没·原始时代》|2019年1月15日|[[https://y.qq.com/n/yqq/song/0009Cmeg21oHNv.html|点击收听]]|
+| 毒液前来 （电影《毒液:致命守护者》中国区推广曲）<label type="warning">[[https://y.qq.com/n/yqq/mv/v/r00285xdrgn.html|MV]]</label>|《毒液:致命守护者》|2018年10月26日|[[https://y.qq.com/n/yqq/song/002ZnJem0NMzzC.html|点击收听]]|
+| 卡路里 （电影《西红柿首富》插曲）<label type="warning">[[https://y.qq.com/n/yqq/mv/v/k0027d0o7zx.html|MV]]</label>|《西红柿首富》|2018年8月1日|[[https://y.qq.com/n/yqq/song/0003JXVx2PhDxM.html|点击收听]]|
+| 全世界都在说东北话 \\ （电影《东北往事之破马张飞》国际版主题曲）<label type="warning">[[https://music.163.com/#/mv?id=5413044|MV]]</label>|《东北往事之破马张飞》|2016年12月25日|[[https://music.163.com/#/song?id=447076234|点击收听]]|
+</panel>
+<panel type="success" title="综艺演唱"  no-body="true">
+^ 歌曲名称 ^ 所属综艺 ^ 发行时间^ 在线收听^
+| God Like(Live)|《即刻电音》|2019年2月1日|[[https://y.qq.com/n/yqq/song/001qM0Uz3gWBr3.html|点击收听]]|
+| Faded(即刻电音版) <label type="warning">[[https://y.qq.com/n/yqq/mv/v/z0029jlgdjs.html|MV]]</label>|《即刻电音》|2018年12月1日|[[https://y.qq.com/n/yqq/song/003fibGr21H2ov.html|点击收听]]|
+| 我的地盘(Live)|《明日之子2》|2018年8月31日||
+| Rocket Girls <label type="warning">[[https://y.qq.com/n/yqq/mv/v/q0026ly9267.html|MV]]</label>|《创造101》|2018年6月23日|[[https://y.qq.com/n/yqq/song/002Ltz852dScSA.html|点击收听]]|
+| 盛放(Live) <label type="warning">[[https://y.qq.com/n/yqq/mv/v/s0026lfeyrg.html|MV]]</label>|《创造101》|2018年6月23日|[[https://y.qq.com/n/yqq/song/000C8Ce20UB2DN.html|点击收听]]|
+| 我就是这种女孩(Live) <label type="warning">[[https://y.qq.com/n/yqq/mv/v/v00264d8588.html|MV]]</label>|《创造101》|2019年6月9日|[[https://y.qq.com/n/yqq/song/001MLRqS14tb3i.html|点击收听]]|
+| 撑腰(Live) <label type="warning">[[https://y.qq.com/n/yqq/mv/v/k0026gro3ag.html|MV]]</label>|《创造101》|2018年5月5日|[[https://y.qq.com/n/yqq/song/003Qe4MT2limVe.html|点击收听]]|
+| Good-Bye Baby(Live) <label type="warning">[[https://y.qq.com/n/yqq/mv/v/c00266ot77t.html|MV]]</label>|《创造101》|2018年4月28日|[[https://y.qq.com/n/yqq/song/002UWdvL0zF0qs.html|点击收听]]|
+| 创造101 |《创造101》|2018年4月12日|[[https://y.qq.com/n/yqq/song/0016Totw2T4ABd.html|点击收听]]|
+</panel>

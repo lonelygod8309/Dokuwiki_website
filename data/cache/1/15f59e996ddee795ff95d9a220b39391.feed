@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://39.105.111.35/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://39.105.111.35/feed.php">
+        <title>孟美岐百科站 粉丝站点</title>
+        <description></description>
+        <link>http://39.105.111.35/</link>
+        <image rdf:resource="http://39.105.111.35/lib/tpl/sprintdoc/images/favicon.ico" />
+       <dc:date>2019-07-07T23:01:56+0800</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://39.105.111.35/doku.php?id=%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9:%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9&amp;rev=1562011715&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://39.105.111.35/lib/tpl/sprintdoc/images/favicon.ico">
+        <title>孟美岐百科站</title>
+        <link>http://39.105.111.35/</link>
+        <url>http://39.105.111.35/lib/tpl/sprintdoc/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://39.105.111.35/doku.php?id=%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9:%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9&amp;rev=1562011715&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-07-02T04:08:35+0800</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>粉丝站点</title>
+        <link>http://39.105.111.35/doku.php?id=%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9:%E7%B2%89%E4%B8%9D%E7%AB%99%E7%82%B9&amp;rev=1562011715&amp;do=diff</link>
+        <description>粉丝站点
+
+
+值得关注的各大孟美岐粉丝组织的微博、站点一览
+组织或个人线下跟拍孟美岐返图的站子站名     链接  状态一顧傾人_MeiQi1015&lt;https://weibo.com/mengmeiqi1015&gt;运行KoalaBear1015_孟美岐&lt;https://weibo.com/u/6572853820&gt;运行shining_MeiQi&lt;https://weibo.com/u/5621743643&gt;运行Blossom丨孟美岐</description>
+    </item>
+</rdf:RDF>

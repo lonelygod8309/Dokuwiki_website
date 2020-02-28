@@ -1,0 +1,20 @@
+{{NEWPAGE}}
+<jumbotron>
+====== 山支词典 ====== 
+孟美岐本人和孟美岐粉圈梗收集
+</jumbotron>
+<callout color="purple" >
+=== NBJJ ===
+女兵姐姐，又名暖宝姐姐。孟美岐粉丝代称。
+</callout>
+<callout color="purple" >
+=== 山支大队 ===
+孟美岐粉丝代称。
+</callout>
+
+<box orange round 100%|Akkordskala-app>
+{{url>http://elgitar.com/script/akkordskala/index.html 100%,520 noscroll noborder center|alternate-text}}
+</box>
+
+
+
